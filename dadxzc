@@ -1,0 +1,30 @@
+[33mcommit 9f5290676b9d0313c953430a3519428208b38bbe[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 0efdab9 2d2bf4f
+Author: PG <pg@gmail.com>
+Date:   Wed May 13 00:39:57 2020 +0530
+
+    Merge branch 'new_branch'
+
+[33mcommit 0efdab9d7273c7cc695675e63024c28b955ed9f3[m
+Author: PG <pg@gmail.com>
+Date:   Wed May 13 00:34:16 2020 +0530
+
+    add cold brew
+
+[33mcommit 2d2bf4f018a9562b7fcb03f48ea0a51f31e97be4[m[33m ([m[1;32mnew_branch[m[33m)[m
+Author: PG <pg@gmail.com>
+Date:   Wed May 13 00:22:27 2020 +0530
+
+    removed eggnog
+
+[33mcommit 0612c75ac5b0c0b6903a7c85caa38703fa1a6e76[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: PG <pg@gmail.com>
+Date:   Tue May 12 14:54:13 2020 +0530
+
+    add new vendors
+
+[33mcommit bd5ee420f6d49b229f9c66b55e21cba0e1b58556[m
+Author: PG <pg@gmail.com>
+Date:   Tue May 12 14:08:19 2020 +0530
+
+    first commit
